@@ -13,16 +13,6 @@ function showDonationModal() {
     const modal = document.getElementById('my_modal_1');
     modal.showModal(); 
   }
-  function noakhaliDonate() {
-    showDonationModal(); 
-  }
+
 
   
-  function feniDonate() {
-    showDonationModal(); 
-  }
-
-
-  function quotaDonate() {
-    showDonationModal();
-  }
